@@ -11,3 +11,7 @@ links to website
 https://www.w3schools.com 
 
 https://www.tutorialspoint.com/html/index.html 
+
+
+Hosing platform:
+https://www.netlify.com/ 
